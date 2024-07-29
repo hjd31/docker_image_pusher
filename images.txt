@@ -1,1 +1,2 @@
 jenkins/jenkins:2.452.3-lts
+sonarqube:lts-community
