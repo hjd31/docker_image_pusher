@@ -3,3 +3,4 @@ sonarqube:lts-community
 calico/cni:v3.13.1
 apache/kafka:3.8.0
 apache/kafka:latest
+zookeeper:3.8.0
