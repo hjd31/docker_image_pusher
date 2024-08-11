@@ -1,7 +1,2 @@
-jenkins/jenkins:2.452.3-lts
-sonarqube:lts-community
-calico/cni:v3.13.1
-apache/kafka:3.8.0
-apache/kafka:latest
-zookeeper:3.8.0
-bitnami/kafka:3.7.1
+wurstmeister/kafka
+wurstmeister/zookeeper
