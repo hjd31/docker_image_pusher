@@ -1,2 +1,1 @@
-wurstmeister/kafka
-wurstmeister/zookeeper
+mysql:8.4
