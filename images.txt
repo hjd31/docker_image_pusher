@@ -1,1 +1,1 @@
-mysql:8.4
+sonatype/nexus3:3.69.0-java8
