@@ -1,1 +1,1 @@
-sonatype/nexus3:3.63.0
+sonatype/nexus3:3.70.1-java11-alpine
