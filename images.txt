@@ -1,1 +1,1 @@
-sonatype/nexus3:3.69.0-java8
+sonatype/nexus3:3.63.0
